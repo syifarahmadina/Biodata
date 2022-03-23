@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(blue6.jpg)no-repeat;
+    background-size: cover;
+}
+.home-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.home-heading h3{
+    font-size: 2.4rem;
+    color: #fff9f9;
+    font-weight: 600;
+}
+.box{
+    width: 500px;
+    background: #E7DFDD;
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    margin-top: 1%;
+    color: #ffffff;
+    font-family: "century gothic, sans-serif";
+}
+
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+.table th td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #000203;
+    color: rgb(255, 255, 255);
+}
